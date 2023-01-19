@@ -6,5 +6,3 @@
 
 <!-- Social -->
 
-
-<div class="tenor-gif-embed" data-postid="15375974" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ninja-politico-manuel-almeida-ninja-de-gaia-lamentable-oss-gif-15375974">Ninja Politico Manuel Almeida GIF</a>from <a href="https://tenor.com/search/ninja+politico-gifs">Ninja Politico GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
