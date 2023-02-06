@@ -1,5 +1,4 @@
 ### Hello 👋
-
-🔭 <strong> Black ninja, code master. </strong>
+🔭 <strong> Learning, coding, chilling </strong>
 
 
